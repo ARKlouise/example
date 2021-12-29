@@ -1,0 +1,9 @@
+void open(void);
+void op_inrterface(void);
+void choose(char op);
+void show(void);
+void input(void);
+void insert(void);
+void selsect(void);
+void delete(void);
+void update(void);
