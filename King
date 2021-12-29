@@ -1,0 +1,29 @@
+<html>
+  
+<head>
+  <title>This is Kingthegreat speaking</title>
+  <meta charset="UTF-8">
+  <style>
+  .center{
+  text-align: center;
+  }
+ </style>
+ </head>
+ 
+ <body>
+  <a href="mypicture.html">
+  <h6 class="center"><img src="kingphillip.png" height="150"/>
+  </a>
+  
+ </body>
+ 
+ <h1 class="center">I Love Taiwan </h2>
+
+<h2 class="center">King Phillip F. Flores </h2>
+  
+<h2 class="center">Teacher: My dear Greatteacher </h2>
+  
+<hr>
+
+
+</html>
